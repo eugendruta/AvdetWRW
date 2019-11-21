@@ -1,7 +1,6 @@
 $(document).ready(function() {
     dialogname = 'avdet';
     UTIL.logger(dialogname + ': ready(): Start');
-    //Test Git 
 
     var table; // AJAX Tabelle
     var key;
